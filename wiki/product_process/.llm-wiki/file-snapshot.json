@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "updatedAt": 1779613872862,
+  "files": {
+    "purpose.md": {
+      "hash": "77546dadbea32fdcf671400051e18f56",
+      "size": 324,
+      "mtimeMs": 1779604066143
+    },
+    "raw/sources/工艺文档.pdf": {
+      "hash": "5cc770cf606c04a70184c356b51591ff",
+      "size": 107016,
+      "mtimeMs": 1765968427689
+    },
+    "schema.md": {
+      "hash": "74be8ad21cdd66495b0e39508ee783b9",
+      "size": 2078,
+      "mtimeMs": 1779604066141
+    },
+    "wiki/concepts/全自动装配生产线.md": {
+      "hash": "39dc5f519fba7d1b257bd3c465041ee5",
+      "size": 1412,
+      "mtimeMs": 1779613872101
+    },
+    "wiki/concepts/堆叠组装.md": {
+      "hash": "c8c31b4691643aa44eb34c565367cf7d",
+      "size": 716,
+      "mtimeMs": 1779613872105
+    },
+    "wiki/entities/eol测试.md": {
+      "hash": "109293893c5d9e292be5a4645b78d6ac",
+      "size": 605,
+      "mtimeMs": 1779613872091
+    },
+    "wiki/entities/三轴直角坐标机器人.md": {
+      "hash": "9bf69d906986daa508c9e7e9f1a54577",
+      "size": 636,
+      "mtimeMs": 1779613872070
+    },
+    "wiki/entities/低压绝缘检测.md": {
+      "hash": "23e003f26ff2b1c4df69f0c47474d6b2",
+      "size": 622,
+      "mtimeMs": 1779613872097
+    },
+    "wiki/entities/六轴机器人.md": {
+      "hash": "f2a24b2ff0ee940f58467cec2d4f5269",
+      "size": 1108,
+      "mtimeMs": 1779613872066
+    },
+    "wiki/entities/回转工作台.md": {
+      "hash": "e5cfb31c138863b9354566729b05364b",
+      "size": 613,
+      "mtimeMs": 1779613872074
+    },
+    "wiki/entities/涂胶.md": {
+      "hash": "02f8858464bf1455d5c7fc2f8ae5374a",
+      "size": 559,
+      "mtimeMs": 1779613872088
+    },
+    "wiki/entities/激光焊接.md": {
+      "hash": "0df6aeea2a5f2e053f31e05e5a52876e",
+      "size": 545,
+      "mtimeMs": 1779613872081
+    },
+    "wiki/entities/焊接机器人.md": {
+      "hash": "9540a194493ccaa53dd7a7067cd6bd06",
+      "size": 506,
+      "mtimeMs": 1779613872077
+    },
+    "wiki/entities/电池模组.md": {
+      "hash": "3dea0089bfba901ecdc07068b6d7aff2",
+      "size": 657,
+      "mtimeMs": 1779613872062
+    },
+    "wiki/entities/电芯.md": {
+      "hash": "57b9f19543094521c18d3cfdb088583b",
+      "size": 763,
+      "mtimeMs": 1779613872057
+    },
+    "wiki/entities/等离子清洗.md": {
+      "hash": "60037792f4098d38ecff303f5c4e263b",
+      "size": 622,
+      "mtimeMs": 1779613872085
+    },
+    "wiki/index.md": {
+      "hash": "7837fada7022eb8b8271b766a032a9ae",
+      "size": 965,
+      "mtimeMs": 1779613872108
+    },
+    "wiki/log.md": {
+      "hash": "40a2b9853a1d911b3da74572c3072f23",
+      "size": 462,
+      "mtimeMs": 1779613872112
+    },
+    "wiki/overview.md": {
+      "hash": "a52688e1465a73e43715fe615696dcc4",
+      "size": 1362,
+      "mtimeMs": 1779613872114
+    },
+    "wiki/sources/工艺文档.md": {
+      "hash": "5a3e2c808276559fb89ea611466e9c92",
+      "size": 2482,
+      "mtimeMs": 1779613872053
+    }
+  }
+}

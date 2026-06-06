@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "role": "user",
+    "content": "锂电池产品电芯是如何装配的",
+    "timestamp": 1780290360868,
+    "conversationId": "conv_1780290327661_odogyr"
+  },
+  {
+    "id": "2",
+    "role": "assistant",
+    "content": "根据现有资料，锂电池模组中电芯的装配过程主要分为以下几个步骤，贯穿生产线的前五道工序 [1][7]：\n\n1.  **电芯上料**：电芯通过滚筒输送机传送，由六轴机器人（上料机器人）抓取并放置到回转工作台上 [1][7][10]。\n2.  **电芯等离子清洗**：在回转工作台上，电芯被翻转到指定位置，由三轴直角坐标机器人带动等离子喷头，对电芯的正反面进行直线往复清洗 [1][3][7][11]。\n3.  **电芯涂胶**：由三轴直角坐标机器人带动涂胶头，在电芯表面沿方形轨迹涂布粘合剂 [1][3][7][11]。\n4.  **电芯堆叠组装**：经过清洗和涂胶后，由六轴协作机器人（电芯堆叠协作机器人）将电芯抓取，堆叠到旋转工作台上的半成品模组上。多个电芯通过排列、堆叠并依靠涂胶粘结固定，形成模组主体 [1][3][4][7][10]。\n5.  **电芯与端板、绝缘板堆叠组装**：在电芯堆叠完成后，再对端板和绝缘板进行清洗、涂胶，并由协作机器人将它们堆叠到电池模组的两端 [1][4][7]。\n\n后续工序则围绕已组装好的电芯主体，进行侧板焊接、底板组装、线束隔离板安装及最终测试，直至成品模组下线 [1][2][7]。\n\n<!-- cited: 1, 2, 3, 4, 7, 10, 11 -->",
+    "timestamp": 1780290363980,
+    "conversationId": "conv_1780290327661_odogyr",
+    "references": [
+      {
+        "title": "全自动装配生产线",
+        "path": "wiki/concepts/全自动装配生产线.md"
+      },
+      {
+        "title": "电池模组",
+        "path": "wiki/entities/电池模组.md"
+      },
+      {
+        "title": "电芯",
+        "path": "wiki/entities/电芯.md"
+      },
+      {
+        "title": "堆叠组装",
+        "path": "wiki/concepts/堆叠组装.md"
+      },
+      {
+        "title": "Wiki Index",
+        "path": "wiki/index.md"
+      },
+      {
+        "title": "Project Overview",
+        "path": "wiki/overview.md"
+      },
+      {
+        "title": "工艺文档",
+        "path": "wiki/sources/工艺文档.md"
+      },
+      {
+        "title": "Research Log",
+        "path": "wiki/log.md"
+      },
+      {
+        "title": "EOL测试",
+        "path": "wiki/entities/eol测试.md"
+      },
+      {
+        "title": "六轴机器人",
+        "path": "wiki/entities/六轴机器人.md"
+      },
+      {
+        "title": "三轴直角坐标机器人",
+        "path": "wiki/entities/三轴直角坐标机器人.md"
+      },
+      {
+        "title": "低压绝缘检测",
+        "path": "wiki/entities/低压绝缘检测.md"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "role": "user",
+    "content": "[1][7]等等这里面的数字是什么意思",
+    "timestamp": 1780290480538,
+    "conversationId": "conv_1780290327661_odogyr"
+  },
+  {
+    "id": "4",
+    "role": "assistant",
+    "content": "这些方括号里的数字（如 `[1]`、`[7]`）是**引文编号**，用于标明信息来源来自哪一个具体的Wiki页面。\n\n具体对应关系如下：\n\n- `[1]` 代表引用了 **等离子清洗** 页面的内容。\n- `[2]` 代表引用了 **三轴直角坐标机器人** 页面的内容。\n- `[3]` 代表引用了 **回转工作台** 页面的内容。\n- `[4]` 代表引用了 **涂胶** 页面的内容。\n- `[7]` 代表引用了 **Project Overview** 页面的内容。\n- `[10]` 代表引用了 **六轴机器人** 页面的内容。\n- `[11]` 代表引用了 **Research Log** 页面的内容。\n\n在回答末尾的隐藏注释 `<!-- cited: 1, 2, 3, 4, 7, 10, 11 -->`，则汇总了该条回答所引用的所有页面列表，方便你查阅和验证信息。\n\n<!-- cited: 8 -->",
+    "timestamp": 1780290482575,
+    "conversationId": "conv_1780290327661_odogyr",
+    "references": [
+      {
+        "title": "等离子清洗",
+        "path": "wiki/entities/等离子清洗.md"
+      },
+      {
+        "title": "三轴直角坐标机器人",
+        "path": "wiki/entities/三轴直角坐标机器人.md"
+      },
+      {
+        "title": "回转工作台",
+        "path": "wiki/entities/回转工作台.md"
+      },
+      {
+        "title": "涂胶",
+        "path": "wiki/entities/涂胶.md"
+      },
+      {
+        "title": "电芯",
+        "path": "wiki/entities/电芯.md"
+      },
+      {
+        "title": "Wiki Index",
+        "path": "wiki/index.md"
+      },
+      {
+        "title": "Project Overview",
+        "path": "wiki/overview.md"
+      },
+      {
+        "title": "工艺文档",
+        "path": "wiki/sources/工艺文档.md"
+      },
+      {
+        "title": "全自动装配生产线",
+        "path": "wiki/concepts/全自动装配生产线.md"
+      },
+      {
+        "title": "六轴机器人",
+        "path": "wiki/entities/六轴机器人.md"
+      },
+      {
+        "title": "Research Log",
+        "path": "wiki/log.md"
+      },
+      {
+        "title": "堆叠组装",
+        "path": "wiki/concepts/堆叠组装.md"
+      },
+      {
+        "title": "低压绝缘检测",
+        "path": "wiki/entities/低压绝缘检测.md"
+      },
+      {
+        "title": "EOL测试",
+        "path": "wiki/entities/eol测试.md"
+      }
+    ]
+  }
+]

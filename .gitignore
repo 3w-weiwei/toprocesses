@@ -46,3 +46,9 @@ experiments/
 # Sub-projects (managed separately)
 langfuse/
 only_viewer/
+
+# LLM wiki (Tauri build artifacts ~16G)
+llm_wiki/
+
+# Claude Code
+.claude/
